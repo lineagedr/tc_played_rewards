@@ -35,8 +35,8 @@ Example of a reward:
 1. rewardId the unique id of your reward it's auto incremented so you don't have to worry about it.
 2. playedTime in format of Hour:Minute:Second in this case when the player reaches 5 minutes of /played time he will receive a reward
 3. gold amount
-4. title id
-5. achievement id
+4. title id (List of title ids https://trinitycore.atlassian.net/wiki/spaces/tc/pages/2129939/CharTitles)
+5. achievement id (List of achievement ids https://trinitycore.atlassian.net/wiki/spaces/tc/pages/2129931/Achievement)
 6. experience amount
 7. level amount
 8. items itemid itemCount multiple items are supported so you can do "49623 1 29434 25" in this case player will recieve 1x of 49623 and 25x of 29434
