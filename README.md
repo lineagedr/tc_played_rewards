@@ -5,7 +5,7 @@ A script written for TrinityCore that rewards players for their /played time.
 
 Script in action: 
 
-[![Played Rewards](https://yt-embed.herokuapp.com/embed?v=bXgEn8F0qpQ)](https://www.youtube.com/watch?v=bXgEn8F0qpQ "Played Rewards.")
+[![Played Rewards](https://i3.ytimg.com/vi/bXgEn8F0qpQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=bXgEn8F0qpQ "Played Rewards.")
 
 # Installation
 1. Place played_rewards.diff patch in your TrinityCore source folder run git and type ```git apply played_rewards.diff```<br />
